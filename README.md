@@ -56,7 +56,7 @@ PaperHunt/
 │   ├── components/
 │   ├── pages/
 │   ├── services/
-│   └── main.jsx
+│   └── app.js
 ├── .gitignore
 ├── README.md
 
